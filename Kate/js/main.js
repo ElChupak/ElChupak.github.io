@@ -31,7 +31,8 @@ pannellum.viewer('panorama', {
   "autoRotate": 1,
   "autoRotateInactivityDelay": 3000,
   "showZoomCtrl": true,
-  "mouseZoom": false
+  "mouseZoom": false,
+  "compass": false
 });
 
 //Pop-up
