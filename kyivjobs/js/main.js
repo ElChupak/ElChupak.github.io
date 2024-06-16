@@ -17,7 +17,6 @@ window.addEventListener('DOMContentLoaded', () => {
       // autoplay: true,
       autoplaySpeed: 4000,
       pouseOnHover: true,
-      waitForAnimate: false,
       responsive: [
         {
           breakpoint: 1200,
